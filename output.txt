@@ -1,0 +1,7 @@
+--- RECEIPT FOR: Alex Mercer ---
+Items Purchased: 3
+Price Per Item: $29.99
+Subtotal: $89.97
+VIP Status: true
+Qualifies for Free Shipping? true
+Reward Points Earned: 30 (Remainder: 0)
